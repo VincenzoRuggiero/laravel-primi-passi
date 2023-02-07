@@ -20,3 +20,23 @@ Route::get('/', function () {
 Route::get('/html', function () {
     return view('html');
 });
+
+Route::get('/css', function () {
+    return view('css');
+});
+
+Route::get('/javascript', function () {
+    return view('javascript');
+});
+
+Route::get('/vue', function () {
+    return view('vue');
+});
+
+Route::get('/php', function () {
+    return view('php');
+});
+
+Route::get('/laravel', function () {
+    return view('laravel');
+});
