@@ -22,6 +22,13 @@ $menuList = ['html', 'css', 'javascript', 'vue', 'php', 'laravel'];
             font-size: 1.1rem;
         }
 
+        .menu li{
+            padding: .5rem .8rem
+        }
+        .menu li:hover{
+            background-color: salmon;
+           
+        }
         .menu .item{
             display: inline-block;
             margin-right: 30px;
@@ -29,6 +36,10 @@ $menuList = ['html', 'css', 'javascript', 'vue', 'php', 'laravel'];
 
         .menu .item a{
             text-decoration: none;
+            color: orangered;
+        }
+        .menu .item a:hover{
+            color: white;
         }
     </style>
 

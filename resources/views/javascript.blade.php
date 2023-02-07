@@ -25,7 +25,7 @@
     </style>
 </head>
 <body>
-    <h1>CSS</h1><span><a href="/">Torna indietro</a></span>
+    <h1>Javascript</h1><span><a href="/">Torna indietro</a></span>
     <div>
         <img src="https://www.citypng.com/public/uploads/small/11662226392uom4gsi9ddb1c81ipfx2u4imargvwq7uskhdui1pj4f6xufjz0jkfzqzduhjuifts0dzcnykgszw6isfutq2nlwb51ef4gm0dt8d.png">
     </div>
